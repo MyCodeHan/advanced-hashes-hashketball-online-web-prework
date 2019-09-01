@@ -1,4 +1,4 @@
-hashketball = {
+def hashketball = {
   :home => {
     :team_name => "Monstars",
     :colors => ["black", "green"],
